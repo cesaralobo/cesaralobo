@@ -6,6 +6,6 @@ I have long time working as a software engineer currently ✨ Test Automation Ex
 - 🔭 I’m currently working as a freelance Test Automator Expert
 - 🌱 I’m currently learning more about DevOps tools
 - 🤔 I’m looking for help with CI/CD pipelines integrations
-- 💬 Ask me about Java, Javascript, 
+- 💬 Ask me about Java, Javascript,PHP, Mocha, Jasmine, WebdriverIO, Selenium or any about Test Autmoation
 - 📫 How to reach me: **clobo.mail@gmail.com**
 
