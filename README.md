@@ -1,7 +1,7 @@
 ### Épale 👋
 
 
-I have worked since my twenties as a software engineer and I am still passionate about code.
+I have worked since my twenties as a software engineer and I am still passionate about code.<br/>
 Currently working as a ✨ Test Automation Expert ✨ with hand-on experience in all testing levels, including performance, functional, APIs, E2E and DevOps 
 
 - 🔭 I’m currently working as a freelance Test Automator Expert
