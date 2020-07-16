@@ -7,6 +7,6 @@ Currently working as a ✨ Test Automation Expert ✨ with hand-on experience in
 - 🔭 I’m currently working as a freelance Test Automator Expert
 - 🌱 I’m currently learning more about DevOps tools
 - 🤔 I’m looking for help with CI/CD pipelines integrations
-- 💬 Ask me about Java, Javascript, PHP, Mocha, Jasmine, WebdriverIO, Selenium or any about Test Autmoation
+- 💬 Ask me about Java, Javascript, PHP, Mocha, Jasmine, WebdriverIO, Selenium,Jenkins or any about Test Autmoation
 - 📫 How to reach me: **clobo.mail@gmail.com**
 
